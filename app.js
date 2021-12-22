@@ -21,3 +21,4 @@ var a2 = new Animal(" uher");
 a2.hoolloh();
 var a3 = new Animal(" aduu");
 a3.hoolloh();
+a3.hoolloh();
